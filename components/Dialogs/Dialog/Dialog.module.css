@@ -1,0 +1,9 @@
+.dialogsItems .active {
+    color:greenyellow;
+}
+.dialogsItems a {
+    text-decoration: none;
+    color: black;
+    outline: none;
+
+}

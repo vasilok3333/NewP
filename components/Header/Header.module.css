@@ -1,0 +1,18 @@
+.header {
+    grid-area: h;
+    background-color:#202020;
+   
+  }
+  
+  .header img {
+    width: 75px;
+  }
+
+  .main {
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+  }
+
+  .nameSite {
+    color: white;
+  }
